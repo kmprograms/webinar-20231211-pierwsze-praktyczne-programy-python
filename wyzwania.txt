@@ -1,0 +1,7 @@
+[ ZADANIE DLA OSÓB NA DISCORD ] -> Licencja JB na 6 miesięcy
+    Napisz program w języku Python, który pobierze od użytkownika zdanie i zwróci nowe
+    zdanie, w którym kolejność liter w każdym wyrazie jest odwrócona.
+    Odpowiedz wysylij na wiadomosc prywatna.
+
+[ NAJBARDZIEJ AKTYWNA OSOBA NA WEBINARZE ] -> Licencja JB na 1 rok
+
